@@ -1,0 +1,24 @@
+{
+    "name": "touxiangbizhi",
+    "version": "1.0.0",
+    "description": "头像壁纸小程序。",
+    "main": "index.js",
+    "dependencies": {
+        "towxml": "^3.0.0",
+        "wxa-plugin-canvas": "^1.1.12"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CavinCao/mini-blog.git"
+    },
+    "author": "qingshulou",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/CavinCao/mini-blog/issues"
+    },
+    "homepage": "https://github.com/CavinCao/mini-blog#readme"
+}
